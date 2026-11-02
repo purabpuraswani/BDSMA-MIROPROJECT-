@@ -1,0 +1,157 @@
+{
+  "total_ratings": 5976479,
+  "total_users": 53424,
+  "total_books": 10000,
+  "global_mean_rating": 3.92,
+  "rating_distribution": [
+    {
+      "rating": 1,
+      "count": 124195
+    },
+    {
+      "rating": 2,
+      "count": 359257
+    },
+    {
+      "rating": 3,
+      "count": 1370916
+    },
+    {
+      "rating": 4,
+      "count": 2139018
+    },
+    {
+      "rating": 5,
+      "count": 1983093
+    }
+  ],
+  "user_activity": {
+    "avg_ratings_per_user": 111.87,
+    "min_ratings_per_user": 19,
+    "max_ratings_per_user": 200,
+    "median_ratings_per_user": 111
+  },
+  "top_authors": [
+    {
+      "authors": "J.K. Rowling, Mary GrandPr\u00e9",
+      "total_books": 8,
+      "total_ratings": 13372767,
+      "avg_rating": 4.55
+    },
+    {
+      "authors": "Suzanne Collins",
+      "total_books": 9,
+      "total_ratings": 8646393,
+      "avg_rating": 4.22
+    },
+    {
+      "authors": "Stephenie Meyer",
+      "total_books": 11,
+      "total_ratings": 8403438,
+      "avg_rating": 3.81
+    },
+    {
+      "authors": "Stephen King",
+      "total_books": 60,
+      "total_ratings": 6505240,
+      "avg_rating": 3.96
+    },
+    {
+      "authors": "J.R.R. Tolkien",
+      "total_books": 6,
+      "total_ratings": 5262785,
+      "avg_rating": 4.43
+    },
+    {
+      "authors": "Rick Riordan",
+      "total_books": 22,
+      "total_ratings": 5126661,
+      "avg_rating": 4.3
+    },
+    {
+      "authors": "Dan Brown",
+      "total_books": 7,
+      "total_ratings": 5002760,
+      "avg_rating": 3.79
+    },
+    {
+      "authors": "Nicholas Sparks",
+      "total_books": 19,
+      "total_ratings": 4270228,
+      "avg_rating": 4.01
+    },
+    {
+      "authors": "Cassandra Clare",
+      "total_books": 13,
+      "total_ratings": 4234130,
+      "avg_rating": 4.4
+    },
+    {
+      "authors": "John Green",
+      "total_books": 4,
+      "total_ratings": 3903939,
+      "avg_rating": 3.97
+    },
+    {
+      "authors": "Veronica Roth",
+      "total_books": 12,
+      "total_ratings": 3520417,
+      "avg_rating": 4.15
+    },
+    {
+      "authors": "John Grisham",
+      "total_books": 33,
+      "total_ratings": 3354720,
+      "avg_rating": 3.77
+    },
+    {
+      "authors": "George R.R. Martin",
+      "total_books": 16,
+      "total_ratings": 3346380,
+      "avg_rating": 4.36
+    },
+    {
+      "authors": "Harper Lee",
+      "total_books": 2,
+      "total_ratings": 3337340,
+      "avg_rating": 3.78
+    },
+    {
+      "authors": "C.S. Lewis",
+      "total_books": 19,
+      "total_ratings": 3071654,
+      "avg_rating": 4.11
+    },
+    {
+      "authors": "F. Scott Fitzgerald",
+      "total_books": 5,
+      "total_ratings": 2859656,
+      "avg_rating": 3.74
+    },
+    {
+      "authors": "Stieg Larsson, Reg Keeland",
+      "total_books": 4,
+      "total_ratings": 2846292,
+      "avg_rating": 4.25
+    },
+    {
+      "authors": "Khaled Hosseini",
+      "total_books": 3,
+      "total_ratings": 2831112,
+      "avg_rating": 4.21
+    },
+    {
+      "authors": "Jodi Picoult",
+      "total_books": 23,
+      "total_ratings": 2626271,
+      "avg_rating": 3.82
+    },
+    {
+      "authors": "John Steinbeck",
+      "total_books": 9,
+      "total_ratings": 2451846,
+      "avg_rating": 3.86
+    }
+  ],
+  "engine_status": "PySpark Big Data Engine Active"
+}

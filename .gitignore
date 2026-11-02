@@ -1,0 +1,19 @@
+# Environment and binary distributions
+jdk17/
+*.zip
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Large raw dataset files (processed data in data/processed/ is tracked)
+goodbooks-10k-master/ratings.csv
+goodbooks-10k-master/to_read.csv
+goodbooks-10k-master/books_xml/
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
